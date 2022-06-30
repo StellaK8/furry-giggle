@@ -6,4 +6,4 @@ something
 
 Something else
 
-A local edit
+Both a local edit and an online edit
