@@ -1,3 +1,4 @@
+
 # A suggested structure for tracking scripts related to a paper
 
 Testing structure for tracking/organizing scripts that create plots/tables for publications:
@@ -47,5 +48,6 @@ Caption: Species counts were conducted as per the methodology described in the M
 [^footnote1]: To get the link to a subheading in this README, move the mouse to the left of the subheading and right-click on the chain-link icon that appears, and then select 'Copy link address'. To link directly to the figure/table, click on the appropriate figure/table link in this README (or navigate to its position in the repo), and then copy the URL from the navigation bar.
 
 [^footnote2]: To transfer tables into Word in preparation for publication, open the csv file in Notepad (if on your computer, else look for the 'Raw' button in GitHub), copy and paste the contents into Word, and do the following: select the text that you want to convert, and then click Insert > Table > Convert Text to Table; in the Convert Text to Table box, choose the options you want. Under Table size, make sure the numbers match the numbers of columns and rows you want. 
+
 
 
